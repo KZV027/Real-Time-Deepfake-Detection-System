@@ -27,6 +27,8 @@ The primary model used for deepfake detection is based on the MobileNet architec
 
 ## ROC Curve
 The ROC (Receiver Operating Characteristic) curve provides a graphical representation of the model performance. The area under the ROC curve (AUC) for this model is approximately 79%, indicating a good balance between sensitivity and specificity.
+![ROC](https://github.com/user-attachments/assets/68dc6e56-e60d-4b3d-bbae-7f77dd89a6e2)
+
 
 ## Usage
 To use the deepfake detection model, you can load the model and run predictions as follows:
